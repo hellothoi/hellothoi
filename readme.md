@@ -41,4 +41,8 @@ Welcome to my GitHub! I'm a passionate linguist and language preservation enthus
 
 Thanks for visiting! 💫
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=hellothoi.hellothoi)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hellothoi&label=Profile+Views&color=0e75b6&style=flat" alt="hellothoi" />
+</p>
+
+
