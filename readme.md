@@ -22,7 +22,6 @@ Welcome to my GitHub! I'm a passionate linguist and language preservation enthus
 - 🖋️ **Translation & Transcription** (English, Hindi, Manipuri)  
 - 📄 **Typing** – fast and accurate  
 - 📚 **Manipuri Linguistics**  
-- 📈 **Advanced Data Analytics** (Google Certified)  
 - 📊 Microsoft Excel and documentation tools  
 - 🌐 Language preservation and digitization
 
