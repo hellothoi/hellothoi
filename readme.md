@@ -1,10 +1,6 @@
 <h1 align="center">Hello 👋, I'm Laishram Thoibisana</h1>
 <h3 align="center">Native Manipuri Experts</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=F72C95&center=true&vCenter=true&width=435&lines=Native+Manipuri+Experts" alt="Typing SVG" />
-</p>
-
 
 Welcome to my GitHub! I'm a passionate linguist and language preservation enthusiast from Manipur, India 🇮🇳.
 
