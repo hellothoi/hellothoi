@@ -40,3 +40,5 @@ Welcome to my GitHub! I'm a passionate linguist and language preservation enthus
 ---
 
 Thanks for visiting! 💫
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=hellothoi.hellothoi)
